@@ -7,7 +7,7 @@ For my final project, I will be demonstrating my skills in scraping, analyzing a
 
 
 ## Concept 1: Soviet Jewish Emighration 1970-2000<a name="soviet-jewish-emigration"></a>
-
+</div syle="margin-left: 40px;">
 **Background**<br/>
 I have an acquaintance who runs a non-profit focused on the history of the Soviet Jewish refusenik movement, and we've been talking about how to represent the enormous migration of individuals (2 million people between 1970 and 2000) from the former Soviet Union to the United States and Israel. Inspired by the extraordinary timelapse representation of the trans-Atlantic slave trade found at [slavevogages.org](https://www.slavevoyages.org/voyage/trans-atlantic#timelapse), I would like to depict the migration pattern of this population over time. In order to do this, I'd need to obtain a dataset with the following fields for each individual:
 - Year of emigration
@@ -20,6 +20,8 @@ So far, I've been able to source this for the U.S. - bound immigrants at [this w
 >​This website is the result of a collaboration between the Universities of Göttingen, Heidelberg and Western Australia. It has been created as a platform to share digitised individual refugee data (1975-2008) obtained from publicly held records as originally recorded by the Office of Refugee Resettlement.
 
 I am still trying to find a comparable dataset for arrivals in Israel. If I can't find anything, I can restrict my analysis to Soviet --> U.S. emigration.
+
+</div>
 
 ## Concept 2: Correlation Between Lung Cancer and Pollution in the U.S.<a name="cancer-and-pollution"></a>
 
