@@ -8,7 +8,6 @@ For my final project, I will be demonstrating my skills in scraping, analyzing a
 
 ## Concept 1: Soviet Jewish Emigration 1970-2000<a name="soviet-jewish-emigration"></a>
 ![Russian emigration image](icon_russia.png)
-</div syle="margin-left: 40px;">
 
 **Background**<br/>
 I have an acquaintance who runs a non-profit focused on the history of the Soviet Jewish refusenik movement, and we've been talking about how to represent the enormous migration of individuals (2 million people between 1970 and 2000) from the former Soviet Union to the United States and Israel. Inspired by the extraordinary timelapse representation of the trans-Atlantic slave trade found at [slavevogages.org](https://www.slavevoyages.org/voyage/trans-atlantic#timelapse), I would like to depict the migration pattern of this population over time. In order to do this, I'd need to obtain a dataset with the following fields for each individual:
@@ -23,9 +22,8 @@ So far, I've been able to source this for the U.S. - bound immigrants at [this w
 
 I am still trying to find a comparable dataset for arrivals in Israel. If I can't find anything, I can restrict my analysis to Soviet --> U.S. emigration.
 
-</div>
-
 ## Concept 2: Correlation Between Lung Cancer and Pollution in the U.S.<a name="cancer-and-pollution"></a>
+![Cancer image](icon_cancer.png)
 
 **Background**<br/>
 Both my parents (non-smokers) developed lung cancer in the last 10 years; my dad passed away from his cancer this past summer. My parents have a number of friends, also non-smokers, who were diagnosed with lung cancer in their 80's. All of these people grew up in Pittsburgh, Pennsylvania, a city with a long industrial history in the coal and steel industries.
@@ -47,6 +45,7 @@ I've found two data sources that I think might work for this purpose:
 
 
 ## Concept 3: Prevalance of Hot Flashes During Perimenopause<a name="menopause"></a>
+![Menopause image](icon_menopause.png)
 
 **Background**<br/>
 Over the past few years, menopause has gone from a "hush-hush" theme to a hot topic, with a number of mainstream media outlets publishing featured stories about menopause and Hormone Replacement Therapy. For many of my female friends in their early 50's, menopause (or more specifically peri=menopause, which is the transition period leading up to menopause) is a dominant theme. Many women in this demographic are now seeking out Hormone Replacement Therapy to treat symptoms such as brain fog, sleeplessness and hot flashes. However, I'm curious how pervasive these symptoms truly are. I would love to know if there are any patterns or correlations, particularly when it comes to hot flashes. When do they typically occur? How frequently do they occur? Are they related to stress or other factors?
