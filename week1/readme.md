@@ -7,6 +7,7 @@ For my final project, I will be demonstrating my skills in scraping, analyzing a
 
 
 ## Concept 1: Soviet Jewish Emigration 1970-2000<a name="soviet-jewish-emigration"></a>
+![Russian emigration image](icon1_russia.png)
 </div syle="margin-left: 40px;">
 
 **Background**<br/>
