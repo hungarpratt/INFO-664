@@ -6,8 +6,9 @@ For my final project, I will be demonstrating my skills in scraping, analyzing a
 3. [Prevalance of Hot Flashes During Perimenopause](#menopause)
 
 
-## Concept 1: Soviet Jewish Emighration 1970-2000<a name="soviet-jewish-emigration"></a>
+## Concept 1: Soviet Jewish Emigration 1970-2000<a name="soviet-jewish-emigration"></a>
 </div syle="margin-left: 40px;">
+
 **Background**<br/>
 I have an acquaintance who runs a non-profit focused on the history of the Soviet Jewish refusenik movement, and we've been talking about how to represent the enormous migration of individuals (2 million people between 1970 and 2000) from the former Soviet Union to the United States and Israel. Inspired by the extraordinary timelapse representation of the trans-Atlantic slave trade found at [slavevogages.org](https://www.slavevoyages.org/voyage/trans-atlantic#timelapse), I would like to depict the migration pattern of this population over time. In order to do this, I'd need to obtain a dataset with the following fields for each individual:
 - Year of emigration
