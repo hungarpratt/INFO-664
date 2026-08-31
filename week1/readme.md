@@ -1,9 +1,9 @@
 # Background
 For my final project, I will be demonstrating my skills in scraping, analyzing and presenting data using Python. I'm still trying to figure out ~~the perfect project~~ what to work on, but I have several sources of data to inspire my work, as follows:
 
-- Soviet Jewish Emigration 1970-2000
-- Concept 2
-- Concept 3
+1. Soviet Jewish Emigration 1970-2000
+2. Concept 2
+3. Concept 3
 
 
 ## Concept 1: Soviet Jewish Emigration 1970-2000
