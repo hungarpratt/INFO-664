@@ -2,11 +2,11 @@
 For my final project, I will be demonstrating my skills in scraping, analyzing and presenting data using Python. I'm still trying to figure out ~~the perfect project~~ what to work on, but I have several topics I'm considering, as follows:
 
 1. [Soviet Jewish Emigration 1970-2000](#soviet=jewish-emigration)
-2. [Correlation between lung cancer and air pollution](#cancer-and-pollution)
+2. [Correlation Between Lung Cancer and Air Pollution](#cancer-and-pollution)
 3. [Prevalance of Hot Flashes During Perimenopause](#menopause)
 
 
-## Concept 1: Soviet Jewish Emigration 1970-2000<a name="soviet-jewish-emigration"></a>
+## Concept #1: Soviet Jewish Emigration 1970-2000<a name="soviet-jewish-emigration"></a>
 
 <img align="right" width="120" src="icon_russia.png" alt="Russian emigration icon">
 
@@ -23,7 +23,7 @@ So far, I've been able to source this for the U.S. - bound immigrants at [this w
 
 I am still trying to find a comparable dataset for arrivals in Israel. If I can't find anything, I can restrict my analysis to Soviet --> U.S. emigration.
 
-## Concept 2: Correlation Between Lung Cancer and Pollution in the U.S.<a name="cancer-and-pollution"></a>
+## Concept #2: Correlation Between Lung Cancer and Pollution in the U.S.<a name="cancer-and-pollution"></a>
 <img align="right" width="120" src="icon_cancer.png" alt="Cancer icon">
 
 
@@ -45,7 +45,7 @@ I've found two data sources that I think might work for this purpose:
 
 - [EPA Air Qualtiy Data](https://www.epa.gov/outdoor-air-quality-data). I can use this dataset to find emissions of SO2, which is released when fossil fules containing sulphur are burned; this includes coal-fired power plants, steel mills, and oil refineries. I'm speculating that these particular emmissions are related to cancer rates.
 
-## Concept 3: Prevalance of Hot Flashes During Perimenopause<a name="menopause"></a>
+## Concept #3: Prevalance of Hot Flashes During Perimenopause<a name="menopause"></a>
 <img align="right" width="120" src="icon_menopause.png" alt="CMenopause icon">
 
 **Background**<br/>
