@@ -1,4 +1,4 @@
-# Background
+# Project Context
 For my final project, I will be demonstrating my skills in scraping, analyzing and presenting data using Python. I'm still trying to figure out ~~the perfect project~~ what to work on, but I have several topics I'm considering, as follows:
 
 1. [Soviet Jewish Emigration 1970-2000](#soviet=jewish-emigration)
