@@ -14,7 +14,7 @@ I have an acquaintance who runs a non-profit focused on the history of the Sovie
 - Departure location (ideally the specific city/town, but at minimum the Republic, e.g. Russia, Latvia, Georgia)
 - Arrival location  (ideally the specific city and town in the U.S. and Israel, but at minimum the country)
 
-**Data**<br/>
+**Data Source**<br/>
 So far, I've been able to source this for the U.S. - bound immigrants at [this website](https://www.refugeeresettlementdata.com/data.html). Here's how the website is described by its authors:
 
 >​This website is the result of a collaboration between the Universities of Göttingen, Heidelberg and Western Australia. It has been created as a platform to share digitised individual refugee data (1975-2008) obtained from publicly held records as originally recorded by the Office of Refugee Resettlement.
@@ -34,7 +34,7 @@ I have heard anecdotally that there's a connection between lung cancer and air p
 - Lung cancer rate
 - Smoker rate (to remove that bias from the analysis)
 
-**Data**<br/>
+**Data Source**<br/>
 I've found two data sources that I think might work for this purpose:
 
 - [The CDC's WONDER cancer incidence](https://wonder.cdc.gov/cancer.html). The CDC only began tracking this data in 1999, so I'd be using data from 2000 - 2020.  According to some preliminary research I've done, there is a 20-30 year latency period between exposure to carcinogens and diagnosis of lung cancer. Consequently, if I wanted to use air pollution data from 1970 = 2000.
@@ -49,6 +49,16 @@ Over the past few years, menopause has gone from a "hush-hush" theme to a hot to
 
 I suspect that robust datasets concerning menopause symptoms will emerge with the rise of wearable technologies (e.g. the Oura ring), but for now, data seems to be relatively scarce. However, I was able to find one dataset -- the [Swan Study](https://www.swanstudy.org/) -- that may provide some answers.
 
-**Data**<br/>
+**Data Source**<br/>
 
-The Study of Women's Health Across the Nation (SWAN) is co-sponsored by *The National Institutes of Health*,*The National Institute on Aging*, *The National Institute of Nursing Research*, *The Office of Research on Women's Health*, and *The National Center for Complementary and Alternative Medicine*.
+The Study of Women's Health Across the Nation (SWAN) is co-sponsored by *The National Institutes of Health*,*The National Institute on Aging*, *The National Institute of Nursing Research*, *The Office of Research on Women's Health*, and *The National Center for Complementary and Alternative Medicine*. Between 1994 and 1997, the intiative tracked 3,302 participants affiliated with 7 research centers. 
+
+One of the limitations of the dataset is that the original survey does not query for number of hot flashes for day. What it *does* ask is the following question: *"How many days in the past 2 weeks have you had a hot flash?*, with ansswers following into 4 buckets:
+
+- 1-5 days
+- 6-8 days
+- 9-13 days
+- Every day
+
+Using responses to this question, I could build an analysis on an ordinal scale of ranges rather than daily frequency. I could also disaggregate and analyze the data by race, exercise levels, and stress levels.
+
